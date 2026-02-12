@@ -51,17 +51,37 @@ A full-stack portal to digitize campus placements.
 </p>
 
 ---
+---
 
+## 💼 What I Bring to the Table
 
-## 📊 GitHub Analytics
+✔ Strong foundation in Data Structures & Problem Solving  
+✔ Full-Stack Development using MERN Stack  
+✔ REST API Design & Secure Authentication Systems  
+✔ AI & Machine Learning Project Experience  
+✔ Understanding of Cyber Security & Ethical Hacking  
+✔ Experience with Role-Based Access Control & System Design  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-k00&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-k00&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
+## 🎯 Career Objective
+
+I aim to build scalable, secure, and intelligent systems that solve real-world problems.  
+Currently seeking opportunities as:
+
+💻 Software Engineer  
+🤖 Machine Learning Engineer  
+🌐 Full-Stack Developer  
+🔐 Cyber Security Engineer  
+
+---
+
+## 🏆 Achievements & Experience
+
+🎖 IBM SkillsBuild – Agentic AI Program  
+🏢 Summer Intern @ CSRBOX (AI & Multi-Agent Systems)  
+🚀 Built Campus Placement Management System (MERN Stack)  
+🌐 Developed AI & Full-Stack Projects  
 
 ---
 
