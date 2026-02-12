@@ -20,21 +20,24 @@
 🏢 Actively seeking Software / AI / ML roles  
 
 ---
+---
 
-## 💼 Highlight Project
+## 🚀 Highlight Project
 
-### 🚀 Campus Placement Management System
-A full-stack portal to digitize campus placements.
+### 🔐 AI-Based Exam Authentication System
 
-✔ Student & Admin Dashboards  
-✔ Secure Role-Based Authentication  
-✔ REST API Integration  
-✔ MongoDB Database Design  
-✔ Application Tracking System  
+A secure biometric verification system designed to prevent impersonation during examinations.
 
-🛠 Tech:  
+✨ Real-time Face Detection using MTCNN  
+🧬 512-D Face Embeddings (FaceNet / InsightFace)  
+📊 Cosine Similarity Matching (Threshold: 0.7)  
+🪑 Automated Seat Allocation  
+✅ Smart Attendance Marking  
+🔐 Anti-impersonation Verification  
+
+🛠 Tech Stack:
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,mysql" />
 </p>
 
 ---
