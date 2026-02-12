@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋 I'm Nikhil K</h1>
-<h3 align="center">💻 Aspiring Software Engineer | 🤖 AI & ML Enthusiast | 🔐 Cyber Security Explorer</h3>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=0AFFEF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nikhil+K;Aspiring+Software+Engineer;AI+%7C+Full+Stack+%7C+Cyber+Security;Open+to+Work" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20FullStack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Kerala%2C%20India-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -10,70 +14,66 @@
 ## 🚀 About Me
 
 🎓 3rd Year B.Tech CSE @ Vimal Jyothi Engineering College  
-🌍 Kerala, India  
-💡 Passionate about building impactful digital solutions  
-🔎 Exploring AI, Full-Stack Development & Cyber Security  
-🏢 Open to: Software Engineer | ML Engineer | AI Engineer | Full-Stack Developer  
+🤖 Passionate about Artificial Intelligence & Intelligent Systems  
+💻 Full-Stack Developer (MERN Stack)  
+🔐 Exploring Cyber Security & Ethical Hacking  
+🏢 Actively seeking Software / AI / ML roles  
 
 ---
 
-## 🧠 Featured Project
+## 💼 Highlight Project
 
 ### 🚀 Campus Placement Management System
-Full-Stack Web Application to digitize placement process
+A full-stack portal to digitize campus placements.
 
-✨ Student & Admin Dashboards  
-📊 Application Status Tracking  
-🔐 Role-Based Authentication  
-🎓 Job, Internship & Webinar Management  
+✔ Student & Admin Dashboards  
+✔ Secure Role-Based Authentication  
+✔ REST API Integration  
+✔ MongoDB Database Design  
+✔ Application Tracking System  
 
-🛠 **Tech Used:**  
-HTML • CSS • JavaScript • Node.js • MongoDB • REST APIs  
-
----
-
-## 🤖 AI & ML Journey
-
-- IBM SkillsBuild – Agentic AI (CSRBOX Internship)  
-- Python with AI Internship  
-- Face Recognition & Biometric Authentication Projects  
-- Strong interest in AI Agents & Intelligent Systems  
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,nodejs,mongodb,html,css,tensorflow,git,linux" />
+🛠 Tech:  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,git" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 AI & Machine Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="160"/>
+✔ IBM SkillsBuild – Agentic AI (CSRBOX Intern)  
+✔ Python with AI Internship  
+✔ Face Recognition & Biometric Authentication Projects  
+✔ AI Agents & Multi-Agent Systems  
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,linux" />
 </p>
 
 ---
 
-## 🏆 Certifications & Experience
+## 📊 GitHub Analytics
 
-🎖 IBM SkillsBuild – Agentic AI  
-🏢 Summer Intern @ CSRBOX (AI & Multi-Agent Systems)  
-📜 IEEE & AI Webinars  
-🤝 National Service Scheme Volunteer  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/nikhil-k-7b564a2b9"><img src="https://skillicons.dev/icons?i=linkedin" width="30"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" width="30"/></a>
+<a href="https://linkedin.com/in/nikhil-k-7b564a2b9">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+</a>
 </p>
 
 ---
 
-⭐ *Curious mind. Continuous learner. Future AI Engineer.*
+<p align="center">
+  <b>💡 Building scalable systems. Exploring intelligent AI. Growing every day.</b>
+</p>
