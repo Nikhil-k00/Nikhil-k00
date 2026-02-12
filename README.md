@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋 I'm Nikhil K</h1>
-<h3 align="center">🤖 AI Developer | 🔐 Biometric Systems | 💡 Problem Solver</h3>
+<h3 align="center">🤖 Web Developer | 💡 Problem Solver</h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Computer Science Student  
-- 🔐 Building AI-Based Student Authentication Systems  
-- 🤖 Working with Face Recognition (MTCNN • FaceNet • InsightFace)  
-- 📄 Targeting IEEE Research Publication  
 - ⚡ Passionate about Secure AI Applications  
 
 ---
@@ -41,7 +38,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://www.linkedin.com/in/nikhil-k-7b564a2b9/" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
