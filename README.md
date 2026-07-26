@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-🎓 3rd Year B.Tech CSE @ Vimal Jyothi Engineering College  
+🎓 4th Year B.Tech CSE @ Vimal Jyothi Engineering College  
 🤖 Passionate about Artificial Intelligence & Intelligent Systems  
 💻 Full-Stack Developer (MERN Stack)  
 🔐 Exploring Cyber Security & Ethical Hacking  
